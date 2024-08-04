@@ -13,7 +13,8 @@ for (const item of files) {
 
 
         if (fsn.existsSync(path.join(basepath, ext))) {
-            // Move the file to this directory if its not a js or json file
+            // Move the file to this directory if its not a js or json
+            file
             fs.rename(path.join(basepath, item), path.join(basepath, ext, item))
 
 
