@@ -39,9 +39,10 @@ Experienced AI/ML professional with a strong background in developing and deploy
   <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" height="40"/>
 
-  <!-- Cloud & Platforms -->
+  <!-- Cloud & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
   <!-- Other Concepts -->
   <img src="https://img.shields.io/badge/AI%2FML-blue?style=for-the-badge&logo=github&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge" height="25"/>
