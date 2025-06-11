@@ -79,12 +79,12 @@ Experienced AI/ML professional with a strong background in developing and deploy
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Codewithmaths/Predicting_Loan_Defaulter" target="_blank">🌟 Predicting_Loan_Defaulter </a> 
-  <a href="https://github.com/Codewithmaths/emotion_detection" target="_blank">🌟 emotion_detection</a> 
-  <a href="https://github.com/Codewithmaths/Predicting_House_Price" target="_blank">🌟 Predicting_House_Price</a> 
-  <a href="https://github.com/Codewithmaths/GestationalDiabetesPrediction" target="_blank">🌟 GestationalDiabetesPrediction</a>
-  <a href="https://github.com/Codewithmaths/FlightPricePrediction" target="_blank">🌟 FlightPricePrediction</a>
-  <a href="https://github.com/Codewithmaths/Project3" target="_blank">🌟 Project 6 Title</a>
+  <a href="https://github.com/Codewithmaths/Predicting_Loan_Defaulter" target="_blank">🌟 Predicting_Loan_Defaulter </a> <br>
+  <a href="https://github.com/Codewithmaths/emotion_detection" target="_blank">🌟 emotion_detection</a> <br>
+  <a href="https://github.com/Codewithmaths/Predicting_House_Price" target="_blank">🌟 Predicting_House_Price</a> <br>
+  <a href="https://github.com/Codewithmaths/GestationalDiabetesPrediction" target="_blank">🌟 GestationalDiabetesPrediction</a><br>
+  <a href="https://github.com/Codewithmaths/FlightPricePrediction" target="_blank">🌟 FlightPricePrediction</a><br>
+  <a href="https://github.com/Codewithmaths/OX_Game" target="_blank">🌟 OX_Game</a><br>
 </p>
 
 ### 🔗 Connect With Me
