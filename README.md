@@ -57,3 +57,14 @@ Experienced AI/ML professional with a strong background in developing and deploy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manav-singh-483b65217)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:singh507manav@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/singh507manav)
+
+
+
+
+<!-- GitHub Snake Animation -->
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" width="100%" />
+
+<!-- Visitor Badge -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Codewithmaths.Codewithmaths)
+
+
