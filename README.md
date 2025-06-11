@@ -78,8 +78,6 @@ Experienced AI/ML professional with a strong background in developing and deploy
   <a href="https://github.com/Codewithmaths/Project3" target="_blank">🌟 Project 3 Title</a>
 </p>
 
-## 🎨 Theme Detection (Dark / Light Mode)
-
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manav-singh-483b65217)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:singh507manav@gmail.com)
@@ -87,13 +85,10 @@ Experienced AI/ML professional with a strong background in developing and deploy
 <a href="https://leetcode.com/u/codewithmaths/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=flat&logoColor=black" alt="LeetCode"/></a>
 
 
-<p align="center">
-  <img src="https://github.com/Codewithmaths/raw/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
-</p>
-
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
 <!-- Visitor Badge -->
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Codewithmaths.Codewithmaths)
 
 
