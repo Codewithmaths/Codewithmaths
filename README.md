@@ -20,6 +20,7 @@
 ---
 Experienced AI/ML professional with a strong background in developing and deploying advanced algorithms, data analysis, and predictive modeling. Known for high standards, reliability, and impactful results. Thrives in collaborative, dynamic environments. Proficient in Python, TensorFlow, and data visualization tools.
 
+<p>
 ### 🛠️ Tools and Technologies
 
 #### 💻 Programming & Scripting
@@ -57,7 +58,7 @@ Experienced AI/ML professional with a strong background in developing and deploy
 #### 📊 Productivity & BI
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-
+</p>
 
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manav-singh-483b65217)
