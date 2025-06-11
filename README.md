@@ -16,14 +16,18 @@
 Experienced AI/ML professional with a strong background in developing and deploying advanced algorithms, data analysis, and predictive modeling. Known for high standards, reliability, and impactful results. Thrives in collaborative, dynamic environments. Proficient in Python, TensorFlow, and data visualization tools.
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codewithmaths&show_icons=true&theme=radical&bg_color=00000000" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codewithmaths&theme=radical&background=00000000" alt="GitHub streak"/>
-</p>
-
 <table>
-  <tr>
+    <tr>   
+      <td>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Codewithmaths&show_icons=true&theme=radical&bg_color=00000000" alt="GitHub stats"/>
+  </td>
+  <td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codewithmaths&theme=radical&background=00000000" alt="GitHub streak"/>
+</td>
+
+
+
     <td valign="top" width="50%">
   
 ### Most Used Languages
@@ -76,6 +80,9 @@ Experienced AI/ML professional with a strong background in developing and deploy
   <a href="https://github.com/Codewithmaths/Project1" target="_blank">🌟 Project 1 Title</a> •
   <a href="https://github.com/Codewithmaths/Project2" target="_blank">🌟 Project 2 Title</a> •
   <a href="https://github.com/Codewithmaths/Project3" target="_blank">🌟 Project 3 Title</a>
+  <a href="https://github.com/Codewithmaths/Project3" target="_blank">🌟 Project 4 Title</a>
+  <a href="https://github.com/Codewithmaths/Project3" target="_blank">🌟 Project 5 Title</a>
+  <a href="https://github.com/Codewithmaths/Project3" target="_blank">🌟 Project 6 Title</a>
 </p>
 
 ### 🔗 Connect With Me
