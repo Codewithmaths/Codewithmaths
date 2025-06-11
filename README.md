@@ -25,6 +25,12 @@ Experienced AI/ML professional with a strong background in developing and deploy
   <td>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codewithmaths&theme=radical&background=00000000" alt="GitHub streak"/>
 </td>
+
+</tr>
+</table>
+
+<table>
+    <tr>  
   <td valign="top" width="50%"> 
     
 ### Most Used Languages
