@@ -18,8 +18,7 @@
 </table>
 
 ---
-
-I'm a creative graphic designer and full-stack developer in the making — passionate about clean UI, seamless UX, and building intelligent web apps. With 4+ years in design and hands-on MERN experience, I blend visuals with code to craft real-world solutions. Currently exploring NLP, AI chatbots, and scalable systems that make a difference.
+Experienced AI/ML professional with a strong background in developing and deploying advanced algorithms, data analysis, and predictive modeling. Known for high standards, reliability, and impactful results. Thrives in collaborative, dynamic environments. Proficient in Python, TensorFlow, and data visualization tools.
 
 ### 🛠️ Tools and Technologies
 <p>
