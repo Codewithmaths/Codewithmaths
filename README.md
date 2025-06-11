@@ -78,7 +78,7 @@ Experienced AI/ML professional with a strong background in developing and deploy
 
 ## 🚀 Featured Projects
 
-<p align="center">
+<p >
   <a href="https://github.com/Codewithmaths/Predicting_Loan_Defaulter" target="_blank">🌟 Predicting_Loan_Defaulter </a> <br>
   <a href="https://github.com/Codewithmaths/emotion_detection" target="_blank">🌟 emotion_detection</a> <br>
   <a href="https://github.com/Codewithmaths/Predicting_House_Price" target="_blank">🌟 Predicting_House_Price</a> <br>
