@@ -43,8 +43,6 @@ Experienced AI/ML professional with a strong background in developing and deploy
 
 ---
 
----
-
 ## 🛠️ Tools & Technologies
 
 <p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; padding:12px">
@@ -81,9 +79,9 @@ Experienced AI/ML professional with a strong background in developing and deploy
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Codewithmaths/Project1" target="_blank">🌟 Project 1 Title</a> •
-  <a href="https://github.com/Codewithmaths/Project2" target="_blank">🌟 Project 2 Title</a> •
-  <a href="https://github.com/Codewithmaths/Project3" target="_blank">🌟 Project 3 Title</a>
+  <a href="https://github.com/Codewithmaths/Predicting_Loan_Defaulter" target="_blank">🌟 Predicting_Loan_Defaulter </a> 
+  <a href="https://github.com/Codewithmaths/Project2" target="_blank">🌟 Project 2 Title</a> 
+  <a href="https://github.com/Codewithmaths/Project3" target="_blank">🌟 Project 3 Title</a> 
   <a href="https://github.com/Codewithmaths/Project3" target="_blank">🌟 Project 4 Title</a>
   <a href="https://github.com/Codewithmaths/Project3" target="_blank">🌟 Project 5 Title</a>
   <a href="https://github.com/Codewithmaths/Project3" target="_blank">🌟 Project 6 Title</a>
