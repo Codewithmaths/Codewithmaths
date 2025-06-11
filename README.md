@@ -23,33 +23,33 @@ Experienced AI/ML professional with a strong background in developing and deploy
 <h3>🛠️ Tools & Technologies</h3>
 <p align="left">
   <!-- Core Languages & Data -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" style="margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" style="margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin: 8px;"/>
 
   <!-- ML / DL Stack -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" style="margin: 8px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" style="margin: 8px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" height="40" style="margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" style="margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" style="margin: 8px;"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40" style="margin: 8px;"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="40" style="margin: 8px;"/>
 
   <!-- Cloud & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" style="margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin: 8px;"/>
 
-  <!-- Other Concepts -->
-  <img src="https://img.shields.io/badge/AI%2FML-blue?style=for-the-badge&logo=github&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/badge/Web%20Dev-007ACC?style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="25"/>
+  <!-- Concepts & Other Tools as Badges -->
+  <img src="https://img.shields.io/badge/AI%2FML-blue?style=for-the-badge&logo=github&logoColor=white" height="25" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge" height="25" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge" height="25" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/Web%20Dev-007ACC?style=for-the-badge" height="25" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="25" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="25" style="margin: 4px;"/>
 </p>
 
 
@@ -62,7 +62,7 @@ Experienced AI/ML professional with a strong background in developing and deploy
 
 
 <!-- GitHub Snake Animation -->
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://github.com/Codewithmaths/Codewithmaths/blob/output/github-contribution-grid-snake.svg" width="100%" />
 
 <!-- Visitor Badge -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Codewithmaths.Codewithmaths)
