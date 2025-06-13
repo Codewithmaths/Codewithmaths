@@ -57,10 +57,10 @@ Experienced AI/ML professional with a strong background in developing and deploy
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" style="margin:12px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" style="margin:12px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" height="40" style="margin:12px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" style="margin:12px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" style="margin:12px; background-color:#F5F5F5; border-radius:6px"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" style="margin:12px"/>
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40" style="margin:12px"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="40" style="margin:12px"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40" style="margin:12px;background-color:#F5F5F5; border-radius:6px"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="40" style="margin:12px;background-color:#F5F5F5; border-radius:6px"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" style="margin:12px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin:12px"/>
