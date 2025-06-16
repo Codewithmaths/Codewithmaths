@@ -84,7 +84,7 @@ Experienced AI/ML professional with a strong background in developing and deploy
   <a href="https://github.com/Codewithmaths/Predicting_House_Price" target="_blank"> Predicting_House_Price</a> <br>
   <a href="https://github.com/Codewithmaths/GestationalDiabetesPrediction" target="_blank"> GestationalDiabetesPrediction</a><br>
   <a href="https://github.com/Codewithmaths/FlightPricePrediction" target="_blank"> FlightPricePrediction</a><br>
-  <a href="https://github.com/Codewithmaths/OX_Game" target="_blank"> OX_Game</a><br>
+  <a href="https://github.com/Codewithmaths/spotify_clone" target="_blank"> Spotify Clone</a><br>
 </p>
 
 ### 🔗 Connect With Me
