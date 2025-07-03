@@ -40,18 +40,6 @@ Experienced AI/ML professional with a strong background in developing and deploy
 </table>
 
 ---
-## 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=Codewithmaths&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo 
-![](https://github-contributor-stats.vercel.app/api?username=Codewithmaths&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Codewithmaths&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-
 
 ## 🛠️ Tools & Technologies
 
@@ -71,13 +59,12 @@ Experienced AI/ML professional with a strong background in developing and deploy
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" style="margin:12px"/>
   <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40" style="margin:12px;background-color:#e0f0ff; border-radius:6px"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="40" style="margin:12px;background-color:#e0f0ff; border-radius:6px"/>
-  <img src"https://img.shields.io/badge/Anaconda-%2344A833.svg" width="60" height="40" style="margin:12px;background-color:#e0f0ff; border-radius:6px"/> 
 
-  <img src"https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" width="40" height="40" style="margin:12px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" style="margin:12px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin:12px"/>
   
 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+  
   <!-- Concept Badges -->
   <img src="https://img.shields.io/badge/AI%2FML-blue?style=for-the-badge&logo=github" height="25" style="margin:8px"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge" height="25" style="margin:8px"/>
@@ -99,6 +86,18 @@ Experienced AI/ML professional with a strong background in developing and deploy
   <a href="https://github.com/Codewithmaths/FlightPricePrediction" target="_blank"> FlightPricePrediction</a><br>
   <a href="https://github.com/Codewithmaths/spotify_clone" target="_blank"> Spotify Clone</a><br>
 </p>
+
+
+## 🏆 GitHub Trophies 
+![](https://github-profile-trophy.vercel.app/?username=Codewithmaths&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo 
+![](https://github-contributor-stats.vercel.app/api?username=Codewithmaths&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Codewithmaths&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manav-singh-483b65217)
