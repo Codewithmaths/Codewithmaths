@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-Experienced AI/ML professional with a strong background in developing and deploying advanced algorithms, data analysis, and predictive modeling. Known for high standards, reliability, and impactful results. Thrives in collaborative, dynamic environments. Proficient in Python, TensorFlow, and data visualization tools.
+Experienced AI/ML professional with a strong background in developing and deploying advanced algorithms, data Analysis, and predictive modeling. Known for high standards, reliability, and impactful results. Thrives in collaborative, dynamic environments. Proficient in Python, TensorFlow, and data visualization tools.
 
 ## 📊 GitHub Stats 
 <table>
