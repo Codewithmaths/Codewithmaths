@@ -15,15 +15,13 @@ Experienced AI/ML professional with a strong background in developing and deploy
 
 ## 📊 GitHub Stats 
 <table>
-    <tr> 
-      <td>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Codewithmaths&show_icons=true&theme=radical&bg_color=00000000" alt="GitHub stats"/>
-      </td>
- <td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codewithmaths&theme=radical&background=00000000" alt="GitHub streak"/>
- </td>
-
+  <tr> 
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Codewithmaths&show_icons=true&theme=radical&bg_color=00000000" alt="GitHub stats"/>
+   </td>
+   <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codewithmaths&theme=radical&background=00000000" alt="GitHub streak"/>
+   </td>
   </tr>
 </table>
 
@@ -92,7 +90,7 @@ Experienced AI/ML professional with a strong background in developing and deploy
 ![](https://github-profile-trophy.vercel.app/?username=Codewithmaths&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo 
-![](https://github-contributor-stats.vercel.app/api?username=Codewithmaths&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Codewithmaths&limit=7&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Codewithmaths&icon=0&color=0)](https://visitcount.itsvg.in)
