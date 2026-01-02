@@ -14,11 +14,6 @@
 Experienced AI/ML professional with a strong background in developing and deploying advanced algorithms, data Analysis, and predictive modeling. Known for high standards, reliability, and impactful results. Thrives in collaborative, dynamic environments. Proficient in Python, TensorFlow, and data visualization tools.
 
 ## 📊 GitHub Analysis
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codewithmaths&theme=radical" width="100%" />
-</p>
-
 ### 📈 Real-time Insights
 <p align="center">
   <img src="https://img.shields.io/badge/Main_Stats-View_Full_Profile-blue?style=for-the-badge&logo=github" />
