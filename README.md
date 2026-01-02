@@ -15,14 +15,11 @@ Experienced AI/ML professional with a strong background in developing and deploy
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codewithmaths&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codewithmaths&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Codewithmaths&show_icons=true&theme=radical&rank_icon=github)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Codewithmaths&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codewithmaths&layout=compact&theme=radical" alt="Most Used Languages" width="60%" />
-</p>
+### 🔝 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codewithmaths&layout=compact&theme=radical)
 
 ## 📊 GitHub Stats 
 <table> 
