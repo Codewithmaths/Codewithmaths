@@ -27,18 +27,18 @@ Experienced AI/ML professional with a strong background in developing and deploy
 </p>
 
 ## 📊 GitHub Stats 
-<!-- <table> -->
+<table> 
   <tr> 
-    <!-- <td> -->
-      <!-- <img src="https://github-readme-stats.vercel.app/api?username=Codewithmaths&show_icons=true&theme=radical&bg_color=00000000" alt="GitHub stats"/> -->
-   <!-- </td> -->
-   <!-- <td> -->
-      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codewithmaths&theme=radical&background=00000000" alt="GitHub streak"/> -->
-   <!-- </td> -->
-  <!-- </tr> -->
-<!-- </table> -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Codewithmaths&show_icons=true&theme=radical&bg_color=00000000" alt="GitHub stats"/>
+   </td>
+   <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codewithmaths&theme=radical&background=00000000" alt="GitHub streak"/>
+   </td>
+  </tr>
+</table>
 
-<!-- <table> -->
+<table>
     <tr>  
   <td valign="top" width="50%"> 
     
@@ -46,10 +46,9 @@ Experienced AI/ML professional with a strong background in developing and deploy
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codewithmaths&layout=compact&theme=radical) 
 
-<!-- </td> -->
-<!-- </tr> -->
-<!-- </table> -->
-<!-- </table> -->
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠️ Tools & Technologies
