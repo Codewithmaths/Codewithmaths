@@ -13,11 +13,23 @@
 
 Experienced AI/ML professional with a strong background in developing and deploying advanced algorithms, data Analysis, and predictive modeling. Known for high standards, reliability, and impactful results. Thrives in collaborative, dynamic environments. Proficient in Python, TensorFlow, and data visualization tools.
 
-## 📊 GitHub Activities
+## 📊 GitHub Analysis
 
-<img src="https://github-readme-stats-six-republic.vercel.app/api?username=Codewithmaths&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codewithmaths&theme=radical" width="100%" />
+</p>
 
-<img src="https://github-readme-stats-six-republic.vercel.app/api/top-langs/?username=Codewithmaths&layout=compact&theme=radical" alt="Top Languages" />
+### 📈 Real-time Insights
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Stats-View_Full_Profile-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/Codewithmaths?style=for-the-badge&color=yellow&logo=github" />
+  <img src="https://img.shields.io/github/commit-activity/y/Codewithmaths?style=for-the-badge&color=orange&logo=github" />
+</p>
+
+### 💻 Language Breakdown
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Codewithmaths&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ### 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Codewithmaths&theme=github-dark-orange)
