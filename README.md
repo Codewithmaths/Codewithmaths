@@ -13,17 +13,14 @@
 
 Experienced AI/ML professional with a strong background in developing and deploying advanced algorithms, data Analysis, and predictive modeling. Known for high standards, reliability, and impactful results. Thrives in collaborative, dynamic environments. Proficient in Python, TensorFlow, and data visualization tools.
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activities
 
-### 📈 Profile Statistics
-![Manav's Stats](https://github-readme-stats.vercel.app/api?username=Codewithmaths&show_icons=true&theme=radical&rank_icon=github&count_private=true)
+<img src="https://github-readme-stats-six-republic.vercel.app/api?username=Codewithmaths&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-### 🗓️ Contribution Streak
-![Manav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Codewithmaths&theme=radical)
+<img src="https://github-readme-stats-six-republic.vercel.app/api/top-langs/?username=Codewithmaths&layout=compact&theme=radical" alt="Top Languages" />
 
-### 💻 Language Distribution
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codewithmaths&layout=compact&theme=radical&hide_progress=false)
-
+### 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Codewithmaths&theme=github-dark-orange)
 
 ## 📊 GitHub Stats 
 <table> 
