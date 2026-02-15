@@ -13,30 +13,6 @@
 
 Experienced AI/ML professional with a strong background in developing and deploying advanced algorithms, data Analysis, and predictive modeling. Known for high standards, reliability, and impactful results. Thrives in collaborative, dynamic environments. Proficient in Python, TensorFlow, and data visualization tools.
 
-## 📊 GitHub Stats 
-<table> 
-  <tr> 
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Codewithmaths&show_icons=true&theme=radical&bg_color=00000000" alt="GitHub stats"/>
-   </td>
-   <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codewithmaths&theme=radical&background=00000000" alt="GitHub streak"/>
-   </td>
-  </tr>
-</table>
-
-<table>
-    <tr>  
-  <td valign="top" width="50%"> 
-    
-### Most Used Languages 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codewithmaths&layout=compact&theme=radical) 
-
-</td>
-</tr>
-</table>
----
 
 ## 🛠️ Tools & Technologies
 
