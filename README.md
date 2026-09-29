@@ -54,10 +54,9 @@
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
-<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; padding:8px">
+<p style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; padding:8px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" style="margin:10px" alt="AWS" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin:10px" alt="Git" title="Git"/>
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Codewithmaths)
 </p>
 
 ### 🏷️ Domain Expertise & Software
