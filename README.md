@@ -58,16 +58,16 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Interview Pilot](https://github.com/Codewithmaths/interview_pilot)** | AI-powered assistant for interview preparation and practice. | `Python`, `Generative AI`, `LLMs` |
-| **[Automate Job Hunt](https://github.com/Codewithmaths/automate_job_hunt)** | Automation toolkit to streamline job applications and tracking. | `Python`, `Automation` |
-| **[My Chat Bot](https://github.com/Codewithmaths/my_chat_bot)** | Interactive conversational chatbot application. | `Python`, `NLP`, `LLMs` |
+| **[Interview Pilot](https://github.com/Codewithmaths/InterviewPilot)** | AI-powered assistant for interview preparation and practice. | `Python`, `Generative AI`, `LLMs` |
+| **[Automate Job Hunt](https://github.com/Codewithmaths/AutomateJobHunt)** | Automation toolkit to streamline job applications and tracking. | `Python`, `Automation` |
+| **[My Chat Bot](https://github.com/Codewithmaths/MyChatBot)** | Interactive conversational chatbot application. | `Python`, `NLP`, `LLMs` |
 | **[Predicting Loan Defaulter](https://github.com/Codewithmaths/Predicting_Loan_Defaulter)** | Machine learning model to predict loan default risk. | `Python`, `Scikit-Learn`, `Pandas` |
 | **[Gestational Diabetes Prediction](https://github.com/Codewithmaths/GestationalDiabetesPrediction)** | Predictive healthcare analytics for gestational diabetes. | `Python`, `Machine Learning` |
 | **[Flight Price Prediction](https://github.com/Codewithmaths/FlightPricePrediction)** | Regression models to forecast airline ticket prices. | `Python`, `Data Analysis` |
 | **[Predicting House Price](https://github.com/Codewithmaths/Predicting_House_Price)** | Housing price prediction model based on real estate features. | `Python`, `Regression` |
 | **[Emotion Detection](https://github.com/Codewithmaths/emotion_detection)** | Deep learning model to recognize human emotions. | `TensorFlow`, `Deep Learning` |
-| **[Python Practice](https://github.com/Codewithmaths/python_practice)** | Collection of Python programming exercises, scripts, and concepts. | `Python` |
-| **[Shop Calculator](https://github.com/Codewithmaths/shop_calculator)** | Utility application for retail billing and price calculations. | `Python`, `Logic` |
+| **[Python Practice](https://github.com/Codewithmaths/Python_Practice)** | Collection of Python programming exercises, scripts, and concepts. | `Python` |
+| **[Shop Calculator](https://github.com/Codewithmaths/shop-calculator)** | Utility application for retail billing and price calculations. | `Python`, `Logic` |
 | **[Spotify Clone](https://github.com/Codewithmaths/spotify_clone)** | Web-based interface clone inspired by Spotify. | `HTML`, `CSS`, `JavaScript` |
 
 ---
