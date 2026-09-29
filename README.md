@@ -86,8 +86,6 @@
 ---
 
 ## 📊 GitHub Overview
-
-* 📈 **Profile Stats & Activity:** Tracked directly via your active repositories and contribution graph below.
 * 🏆 **Coding Focus:** Python, Machine Learning, Deep Learning, and Generative AI automation tools.
 
 <p align="center">
