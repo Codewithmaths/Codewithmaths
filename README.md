@@ -66,7 +66,6 @@
   <img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge" height="25" alt="Generative AI"/>
   <img src="https://img.shields.io/badge/Web%20Dev-007ACC?style=for-the-badge" height="25" alt="Web Dev"/>
   </p>
----
 
 ## 🚀 Featured Projects
 
