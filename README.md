@@ -25,33 +25,48 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### Languages & Core
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/>
+### 💻 Languages & Core
+
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; padding:8px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin:10px" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin:10px" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin:10px" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin:10px" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" style="margin:10px" alt="MongoDB" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" style="margin:10px" alt="Jupyter" title="Jupyter"/>
 </p>
 
-### AI, ML & Data Science
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-Learn" title="Scikit-Learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="36" height="36" alt="Keras" title="Keras"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" height="36" alt="Jupyter" title="Jupyter"/>
+### 🤖 AI, Machine Learning & Data Science
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; padding:8px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" style="margin:10px" alt="TensorFlow" title="TensorFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" style="margin:10px" alt="Scikit-Learn" title="Scikit-Learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" height="40" style="margin:10px" alt="Keras" title="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" style="margin:10px; background-color:#e0f0ff; border-radius:6px" alt="Pandas" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" style="margin:10px" alt="NumPy" title="NumPy"/>
 </p>
 
-### Cloud, DevOps & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36" height="36" alt="AWS" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" height="28" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="28" alt="Excel"/>
+### Data Visualization Tools
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; padding:8px">
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40" style="margin:10px; background-color:#e0f0ff; border-radius:6px" alt="Matplotlib" title="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="40" style="margin:10px; background-color:#e0f0ff; border-radius:6px" alt="Seaborn" title="Seaborn"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel" height="25" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi" height="25" alt="Power BI"/>
 </p>
 
+### ☁️ Cloud, DevOps & Tools
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; padding:8px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" style="margin:10px" alt="AWS" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin:10px" alt="Git" title="Git"/>
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Codewithmaths)
+</p>
+
+### 🏷️ Domain Expertise & Software
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; padding:8px">
+  <img src="https://img.shields.io/badge/AI%2FML-blue?style=for-the-badge&logo=github" height="25" alt="AI/ML"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge" height="25" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge" height="25" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Web%20Dev-007ACC?style=for-the-badge" height="25" alt="Web Dev"/>
+  </p>
 ---
 
 ## 🚀 Featured Projects
