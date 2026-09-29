@@ -38,7 +38,6 @@ Experienced AI/ML professional with a strong background in developing and deploy
   
 
   
-  <!-- Concept Badges -->
   <img src="https://img.shields.io/badge/AI%2FML-blue?style=for-the-badge&logo=github" height="25" style="margin:8px"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge" height="25" style="margin:8px"/>
   <img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge" height="25" style="margin:8px"/>
