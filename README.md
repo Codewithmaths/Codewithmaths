@@ -93,6 +93,14 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Codewithmaths&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codewithmaths&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Codewithmaths&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 </p>
 
