@@ -54,7 +54,7 @@
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
-<p style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; padding:8px">
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; padding:8px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" style="margin:10px" alt="AWS" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin:10px" alt="Git" title="Git"/>
 </p>
