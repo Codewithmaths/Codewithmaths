@@ -69,7 +69,6 @@ Experienced AI/ML professional with a strong background in developing and deploy
 ---
 [![](https://visitcount.itsvg.in/api?id=Codewithmaths&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manav-singh-483b65217)
