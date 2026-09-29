@@ -85,6 +85,19 @@
 
 ---
 
+## 📊 GitHub Overview
+
+* 📈 **Profile Stats & Activity:** Tracked directly via your active repositories and contribution graph below.
+* 🏆 **Coding Focus:** Python, Machine Learning, Deep Learning, and Generative AI automation tools.
+
+<p align="center">
+  <a href="https://github.com/Codewithmaths">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codewithmaths&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
